@@ -1,2 +1,3 @@
-streamlit==1.19.0
-transformers==4.29.2
+streamlit
+torch
+transformers
